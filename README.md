@@ -52,13 +52,18 @@ In materials science and precision tooling, **Tungsten Carbide ($\text{WC}$)** i
 
 ```
 mc-tungsten-carbide/
-├── pack.mcmeta          # Broad version compatibility (1.16 - 26.x+)
-├── pack.png             # Official 3D Netherite Block icon
+├── pack.mcmeta
+├── pack.png
+├── README.md
 ├── assets/
 │   └── minecraft/
 │       └── lang/
-│           └── en_us.json  # Comprehensive metallurgy translations
-└── screenshots/         # In-game preview captures
+│           └── en_us.json
+└── screenshots/
+    ├── showcase_01.png
+    ├── showcase_02.png
+    ├── showcase_03.png
+    └── showcase_04.png
 ```
 
 ---
