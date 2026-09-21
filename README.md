@@ -2,13 +2,21 @@
 
 A Minecraft resource pack applying scientifically plausible metallurgy to Netherite, inspired by real-world materials science and the YouTube analysis: [**"Jeweller reviews Minecraft netherite"**](https://www.youtube.com/shorts/jQjj2ra1NJ0).
 
-[![YouTube Shorts](https://img.shields.io/badge/YouTube_Shorts-Jeweller_Reviews_Netherite-red?logo=youtube)](https://www.youtube.com/shorts/jQjj2ra1NJ0)
-[![Latest Release](https://img.shields.io/github/v/release/Bittu5134/mc-tungsten-carbide?color=gold)](https://github.com/Bittu5134/mc-tungsten-carbide/releases/latest)
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16_to_26.x+-brightgreen)](#)
+<p align="center">
+  <a href="https://github.com/Bittu5134/mc-tungsten-carbide/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Resource_Pack_.zip-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Resource Pack" height="38" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/shorts/jQjj2ra1NJ0"><img src="https://img.shields.io/badge/YouTube_Shorts-Jeweller_Reviews_Netherite-red?logo=youtube" alt="YouTube Shorts" /></a>
+  <a href="https://github.com/Bittu5134/mc-tungsten-carbide/releases/latest"><img src="https://img.shields.io/github/v/release/Bittu5134/mc-tungsten-carbide?color=gold" alt="Latest Release" /></a>
+  <img src="https://img.shields.io/badge/Minecraft-1.16_to_26.x+-brightgreen" alt="Minecraft Version" />
+</p>
 
 ---
 
-## 📺 Inspiration & Metallurgy Theory
+## Inspiration and Metallurgy Theory
 
 > *"As a jeweler, I think netherite is Minecraft's coolest bit of semi-real metallurgy because if you treat the crafting recipe like a real-world material process, it becomes weirdly similar to materials I actually use daily... Ancient debris behaves like some kind of refractory metal [tungsten]... your diamond tool supplies the carbon, and the gold acts like the tougher metallic binder."*
 > — [**Watch the YouTube Short**](https://www.youtube.com/shorts/jQjj2ra1NJ0)
@@ -27,7 +35,7 @@ In materials science and precision tooling, **Tungsten Carbide ($\text{WC}$)** i
 
 ---
 
-## 🖼️ In-Game Showcase
+## In-Game Showcase
 
 <p align="center">
   <img src="screenshots/showcase_01.png" alt="In-Game Showcase 1" width="48%" />
@@ -40,7 +48,7 @@ In materials science and precision tooling, **Tungsten Carbide ($\text{WC}$)** i
 
 ---
 
-## 📦 Pack Structure
+## Pack Structure
 
 ```
 mc-tungsten-carbide/
@@ -55,8 +63,8 @@ mc-tungsten-carbide/
 
 ---
 
-## 🛠️ Installation
+## Installation
 
-1. Download the latest `TungstenCarbidePack-*.zip` from the [Releases](https://github.com/Bittu5134/mc-tungsten-carbide/releases) page.
-2. Place the `.zip` file into your `.minecraft/resourcepacks/` folder.
+1. Click the **Download Resource Pack** button above or visit the [Releases](https://github.com/Bittu5134/mc-tungsten-carbide/releases) page.
+2. Place the downloaded `.zip` file into your `.minecraft/resourcepacks/` directory.
 3. In Minecraft, navigate to **Options** → **Resource Packs...**, activate **Tungsten Carbide Pack**, and click **Done**.
