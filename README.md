@@ -3,14 +3,14 @@
 A Minecraft resource pack applying scientifically plausible metallurgy to Netherite, inspired by real-world materials science and the YouTube analysis: [**"Jeweller reviews Minecraft netherite"**](https://www.youtube.com/shorts/jQjj2ra1NJ0).
 
 <p align="center">
-  <a href="https://github.com/Bittu5134/mc-tungsten-carbide/releases/latest">
+  <a href="https://github.com/Bittu5134/TungstenCarbidePack/releases/latest">
     <img src="https://img.shields.io/badge/Download-Resource_Pack_.zip-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download Resource Pack" height="38" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.youtube.com/shorts/jQjj2ra1NJ0"><img src="https://img.shields.io/badge/YouTube_Shorts-Jeweller_Reviews_Netherite-red?logo=youtube" alt="YouTube Shorts" /></a>
-  <a href="https://github.com/Bittu5134/mc-tungsten-carbide/releases/latest"><img src="https://img.shields.io/github/v/release/Bittu5134/mc-tungsten-carbide?color=gold" alt="Latest Release" /></a>
+  <a href="https://github.com/Bittu5134/TungstenCarbidePack/releases/latest"><img src="https://img.shields.io/github/v/release/Bittu5134/TungstenCarbidePack?color=gold" alt="Latest Release" /></a>
   <img src="https://img.shields.io/badge/Minecraft-1.16_to_26.x+-brightgreen" alt="Minecraft Version" />
 </p>
 
@@ -51,7 +51,7 @@ In materials science and precision tooling, **Tungsten Carbide ($\text{WC}$)** i
 ## Pack Structure
 
 ```
-mc-tungsten-carbide/
+TungstenCarbidePack/
 ├── pack.mcmeta
 ├── pack.png
 ├── README.md
@@ -70,6 +70,6 @@ mc-tungsten-carbide/
 
 ## Installation
 
-1. Click the **Download Resource Pack** button above or visit the [Releases](https://github.com/Bittu5134/mc-tungsten-carbide/releases) page.
+1. Click the **Download Resource Pack** button above or visit the [Releases](https://github.com/Bittu5134/TungstenCarbidePack/releases) page.
 2. Place the downloaded `.zip` file into your `.minecraft/resourcepacks/` directory.
 3. In Minecraft, navigate to **Options** → **Resource Packs...**, activate **Tungsten Carbide Pack**, and click **Done**.
