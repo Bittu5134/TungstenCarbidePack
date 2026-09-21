@@ -1,9 +1,5 @@
 # Tungsten Carbide Pack (Minecraft Java Edition)
 
-<p align="center">
-  <img src=".github/assets/social-card.png" alt="Tungsten Carbide Resource Pack Banner" width="100%" />
-</p>
-
 A Minecraft resource pack applying scientifically plausible metallurgy to Netherite, inspired by real-world materials science and the YouTube analysis: [**"Jeweller reviews Minecraft netherite"**](https://www.youtube.com/shorts/jQjj2ra1NJ0).
 
 <p align="center">
