@@ -1,0 +1,39 @@
+{
+  "item.minecraft.netherite_sword": "Tungsten Carbide Sword",
+  "item.minecraft.netherite_shovel": "Tungsten Carbide Shovel",
+  "item.minecraft.netherite_pickaxe": "Tungsten Carbide Pickaxe",
+  "item.minecraft.netherite_axe": "Tungsten Carbide Axe",
+  "item.minecraft.netherite_hoe": "Tungsten Carbide Hoe",
+  "item.minecraft.netherite_spear": "Tungsten Carbide Spear",
+  "item.minecraft.netherite_helmet": "Tungsten Carbide Helmet",
+  "item.minecraft.netherite_chestplate": "Tungsten Carbide Chestplate",
+  "item.minecraft.netherite_leggings": "Tungsten Carbide Leggings",
+  "item.minecraft.netherite_boots": "Tungsten Carbide Boots",
+  "item.minecraft.netherite_horse_armor": "Tungsten Carbide Horse Armor",
+  "item.minecraft.netherite_nautilus_armor": "Tungsten Carbide Nautilus Armor",
+
+  "item.minecraft.netherite_ingot": "Tungsten-Gold Ingot",
+  "item.minecraft.netherite_scrap": "Refined Tungsten Scrap",
+  "block.minecraft.netherite_block": "Block of Tungsten-Gold Alloy",
+  "block.minecraft.ancient_debris": "Wolframite Debris",
+
+  "upgrade.minecraft.netherite_upgrade": "Carbide Sintering Upgrade",
+  "item.minecraft.smithing_template.netherite_upgrade": "Smithing Template (Carbide Sintering Upgrade)",
+  "item.minecraft.netherite_upgrade_smithing_template": "Smithing Template (Carbide Sintering Upgrade)",
+  "item.minecraft.netherite_upgrade_smithing_template.new": "Carbide Sintering Upgrade",
+  "item.minecraft.smithing_template.netherite_upgrade.applies_to": "Diamond Equipment (Carbon Source)",
+  "item.minecraft.smithing_template.netherite_upgrade.ingredients": "Tungsten-Gold Ingot",
+  "item.minecraft.smithing_template.netherite_upgrade.base_slot_description": "Add diamond armor, weapon, or tool (carbon substrate)",
+  "item.minecraft.smithing_template.netherite_upgrade.additions_slot_description": "Add Tungsten-Gold Ingot (refractory metal & binder)",
+
+  "trim_material.minecraft.netherite": "Tungsten Carbide Material",
+
+  "subtitles.item.armor.equip_netherite": "Tungsten Carbide armor clanks",
+
+  "advancements.nether.netherite_armor.title": "Cover Me in Carbide",
+  "advancements.nether.netherite_armor.description": "Get a full suit of Tungsten Carbide armor",
+  "advancements.nether.obtain_ancient_debris.title": "Refractory Metal",
+  "advancements.nether.obtain_ancient_debris.description": "Obtain Wolframite Debris",
+  "advancements.husbandry.netherite_hoe.title": "Serious Dedication",
+  "advancements.husbandry.netherite_hoe.description": "Use a Tungsten-Gold Ingot to upgrade a Hoe, and then reevaluate your life choices"
+}
