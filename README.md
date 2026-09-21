@@ -48,26 +48,6 @@ In materials science and precision tooling, **Tungsten Carbide ($\text{WC}$)** i
 
 ---
 
-## Pack Structure
-
-```
-TungstenCarbidePack/
-├── pack.mcmeta
-├── pack.png
-├── README.md
-├── assets/
-│   └── minecraft/
-│       └── lang/
-│           └── en_us.json
-└── screenshots/
-    ├── showcase_01.png
-    ├── showcase_02.png
-    ├── showcase_03.png
-    └── showcase_04.png
-```
-
----
-
 ## Installation
 
 1. Click the **Download Resource Pack** button above or visit the [Releases](https://github.com/Bittu5134/TungstenCarbidePack/releases) page.
